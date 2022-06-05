@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m @DidinSalahudin</h2>
+<h2>👋 Hi, I’m Salahudin and I'm a Full Stack Developer</h2>
 
 ```dart
 class AboutMe {
